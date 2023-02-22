@@ -1,10 +1,8 @@
 # DILBER
 
 
-rm -rf MKBRAND
-
 git clone https://github.com/DRJAAN/MKBRAND.git
 
-cd MKBRAND
+cd dilber
 
-python MKBRAND.py
+python dilber.py
