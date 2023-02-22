@@ -3,7 +3,7 @@
 
 rm -rf MKBRAND
 
-git clone https://github.com/MKBRAND404/MKBRAND
+git clone https://github.com/DRJAAN/MKBRAND.git
 
 cd MKBRAND
 
