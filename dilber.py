@@ -44,15 +44,11 @@ g{�G�z�?)�sys�stdout�write�flush�time�sleep)�z�
                                  
  
  
-         ,-----.                            ,--.
-         |  |) /_ ,--.--. ,--,--.,--,--,  ,-|  |
-         |  .-.  \|  .--'' ,-.  ||      ' .-.  |
-         |  '--' /|  |   \ '-'  ||  ||  |\ `-' |
-         `------' `--'    `--`--'`--''--' `---'
+         DS JAAN BALOOCH
  
     ┌───────────────────────────────────────┐
        [✓] AUTHOR   : DILBER PITAFIA             
-       [✓] GITHUB   : MKBRAND404                   
+       [✓  GitHub   : Dsjaan              
        [✓] WHATSAPP : +923232706058 x +923256635155   
        [✓] VERSION  : 0.1                       
        [✓] POWER BY : [1;32mMK BRAND [1;37m            
